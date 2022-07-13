@@ -14,27 +14,6 @@
 .trybewarts-login {
   display: flex;
 }
-#email,
-#password {
-  margin-right: 10px;
-  border-radius: 10px;
-  border: 1px solid purple;
-  align-self: center;
-  font-size: 14px;
-  padding: 5px;
-}
-#buttonlogin {
-  margin-right: 10px;
-  align-self: center;
-  padding: 5px;
-  border-radius: 10px;
-  background-color: blueviolet;
-  color: white;
-}
-#trybewarts-header-title {
-  color: white;
-  align-self: center;
-}
 main {
   display: flex;
 }
